@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-qrcodescanner" version="0.0.4">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-qrcodescanner" version="0.0.5">
   <name>QRCodeScanner</name>
   <description>You can use the QRCodeScanner plugin to scan barcodes and QRCode(using the device's camera).</description>
   <license>apache</license>
-  <repo>https://github.com/servbus/cordova-plugin-qrcodescanner.git</repo>
-  <issue>https://github.com/servbus/cordova-plugin-qrcodescanner.git/issues</issue>
+  <repo>https://github.com/vhly/cordova-plugin-qrcodescanner.git</repo>
+  <issue>https://github.com/vhly/cordova-plugin-qrcodescanner.git/issues</issue>
   <engines>
     <engine name="cordova" version=">=7.1.0"/>
     <engine name="cordova-android" version=">=6.3.0"/>
